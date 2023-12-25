@@ -1,4 +1,4 @@
-#  🔗 REST and SOAP API testing in Postman 
+# REST and SOAP API testing in Postman 
 
 1) Я протестировал все методы, которые предусмотрены для https://petstore.swagger.io/ в Postman и создал соответствующие коллекции:
  <ul>
