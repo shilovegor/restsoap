@@ -8,5 +8,5 @@
 
 2) Используя <a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">WSDL</a>, я создал рабочую коллекцию в Postman которую можно использовать для определения: валюты страны, полной информации о стране и информации о языке конкретной страны: 
  <ul>
-<li> <a href="https://www.postman.com/payload-meteorologist-81384149/workspace/my-workspace/request/31122225-d082226c-7a68-4ae9-b432-44237270bde3"> коллекция Postman: SOAP</a>   </li>
+<li> <a href="https://www.postman.com/lunar-eclipse-787424/workspace/my-workspace/collection/20932687-7d170d34-59f2-46ee-8a00-f0668982f3ec?ctx=info"> Коллекция Postman: SOAP</a>   </li>
 </ul>
